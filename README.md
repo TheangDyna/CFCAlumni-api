@@ -1,1 +1,1 @@
-# CFCAlumni-api
+# cfc-api
